@@ -18,7 +18,7 @@ The aim of this work is to analyse a set of 33,716 emails, classified as SPAM or
  - TensorFlow and Keras for neural network development.
  - Embeddings of Word2Vec and BERT to improve the semantic representation of texts.
 
-You can download the glove model used in this work from this [link](https://www.kaggle.com/code/kwisatzhaderach/glove2word2vec-in-kaggle-kernels/input). The same for the [pre-trained google embedding model.](https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300)
+You can download the [glove model](https://www.kaggle.com/code/kwisatzhaderach/glove2word2vec-in-kaggle-kernels/input) used in this work. The same for the [pre-trained google embedding model.](https://www.kaggle.com/datasets/leadbest/googlenewsvectorsnegative300)
 
 ### Data pre-processing
 Text pre-processing has been key to improving model performance and reducing computational complexity. Techniques used include:
