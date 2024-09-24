@@ -1,6 +1,6 @@
 # Evaluation of the Effectiveness of Classification Models for HAM and SPAM Identification
 
-This repository contains my Final Degree Project (TFG) of the Applied Statistics degree at the Universitat Autònoma de Barcelona (UAB). The project focuses on the evaluation of the effectiveness of several classification models in the detection of SPAM and HAM emails.
+This repository contains the practical part of my Final Degree Project (TFG) of the Applied Statistics degree at the Universitat Autònoma de Barcelona (UAB). The project focuses on the evaluation of the effectiveness of several classification models in the detection of SPAM and HAM emails.
 
 ## Project Description
 The aim of this work is to analyse a set of 33,716 emails, classified as SPAM or HAM, and to evaluate the performance of several text classification models. In order to optimise the results and reduce the computational cost, an exhaustive pre-processing of the texts has been performed and embeddings have been used.
